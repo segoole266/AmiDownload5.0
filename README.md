@@ -1,0 +1,26 @@
+#AmiDownload5.0
+
+https://drive.google.com/file/d/118dnpJg5jhNJjqyZ3ZXQDFXXcwVPo3kK/view?usp=sharing
+
+معرفی برنامه معرفی برنامه AmiDownload
+
+AmiDownload یک اپلیکیشن قدرتمند و سبک برای دانلود ویدئو و صوت از سایت‌های مختلف مانند آپارات، یوتیوب، اینستاگرام، توییتر و تیک‌تاک است.
+
+با این برنامه می‌توانید ویدئوها را با کیفیت‌های 1080p، 720p، 480p، 360p، 240p و فرمت‌های MP4، MKV، AVI، WEBM و MP3 دانلود کنید.
+
+امکان دانلود همزمان چندین فایل، نمایش سرعت دانلود به صورت MB/s، درصد پیشرفت و زمان باقیمانده از قابلیت‌های این برنامه است.
+
+رابط کاربری ساده و فارسی با قابلیت تنظیم مسیر ذخیره، انتخاب سرعت دانلود (سریع/متوسط/آهسته) و مدیریت دانلودها (توقف/ادامه/حذف).AmiDownload
+
+
+
+AmiDownload - App Introduction
+
+AmiDownload is a powerful and lightweight application for downloading video and audio from various platforms including Aparat, YouTube, Instagram, Twitter, and TikTok.
+
+With this app, you can download videos in qualities ranging from 1080p, 720p, 480p, 360p, to 240p, and in formats including MP4, MKV, AVI, WEBM, and MP3.
+
+It supports simultaneous downloading of multiple files, displays download speed in MB/s, shows progress percentage, and estimates remaining time.
+
+The user-friendly interface features Persian language support, customizable download path, speed control (Fast/Medium/Slow), and full download management (Pause/Resume/Delete).
+
